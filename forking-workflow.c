@@ -10,10 +10,17 @@ int main(){
 	
 	// Call your function below this line.
 	
+	Epe_printName();
 	return 0;
 }
 
 
 // Refer to the function name for the naming of your funcion.
 void navarro_printName() {
+}
+
+void Epe_printName() {
+
+	printf("Epe, Beatrice Lynn R.");
+
 }

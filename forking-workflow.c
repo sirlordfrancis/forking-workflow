@@ -10,10 +10,15 @@ int main(){
 	
 	// Call your function below this line.
 	
+	navarro_printName();
+	
 	return 0;
 }
 
 
 // Refer to the function name for the naming of your funcion.
 void navarro_printName() {
+	
+	printf("Beatrice Lynn Epe");
+
 }

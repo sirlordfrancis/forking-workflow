@@ -17,3 +17,7 @@ int main(){
 // Refer to the function name for the naming of your funcion.
 void navarro_printName() {
 }
+
+void epe_printName() {
+	printf("Epe, Beatrice Lynn R. ")
+}

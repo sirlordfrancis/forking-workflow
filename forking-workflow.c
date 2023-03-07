@@ -5,7 +5,7 @@ void printMyName() {
 }
 
 int main() {
-   // Call the printMyName function
+   // input name 
    printMyName();
 
    return 0;

@@ -4,16 +4,23 @@
 */
 #include <stdio.h>
 
+
+void baliwis_printName();
+
 int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
 	
 	// Call your function below this line.
+	baliwis_printName();
 	
 	return 0;
 }
 
 
 // Refer to the function name for the naming of your funcion.
-void navarro_printName() {
+void baliwis_printName() {
+	printf("Joreme N. Baliwis"); //Student Name
 }
+
+

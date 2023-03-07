@@ -21,5 +21,5 @@ void navarro_printName() {
 
 void tubal_printName()
 {
-	printf("Jon Ulriko C. Tubal")
+	printf("Jon Ulriko C. Tubal");
 }

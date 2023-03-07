@@ -4,11 +4,15 @@
 */
 #include <stdio.h>
 
+void borinaga_printName(){
+	printf("John Leander Borinaga");
+}
 int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
 	
 	// Call your function below this line.
+	borinaga_printName();
 	
 	return 0;
 }

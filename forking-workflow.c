@@ -3,13 +3,16 @@
 	Description:	This activity will allow students to try forking from a public GitHub Repository.
 */
 #include <stdio.h>
-
+ 
+    void forkingworkflow_inso(){
+    	printf("Al Dave Inso");
+	}
 int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
 	
 	// Call your function below this line.
-	
+	forkingworkflow_inso();
 	return 0;
 }
 
